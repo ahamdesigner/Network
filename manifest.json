@@ -7,5 +7,10 @@
     "scope": "/",
     "background_color": "#FFFFFF",
     "url": "https://ahamdesigner.github.io/Network/yode.html",
-    "lang": "English"
+    "lang": "English",
+    "icons":[{
+      "src":"https://ahamdesigner.github.io/Network/green.jpg",
+      "type":"image/jpg",
+      "sizes":"512x512"
+    }]
 }

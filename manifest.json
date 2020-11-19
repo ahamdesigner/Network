@@ -4,7 +4,7 @@
     "description": "Networking application for departments.",
     "display": "standalone",
     "start_url": "/yode.html",
-    "scope": "/app/",
+    "scope": "/",
     "background_color": "#FFFFFF",
     "url": "https://ahamdesigner.github.io/Network/yode.html",
     "lang": "English"

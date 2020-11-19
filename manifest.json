@@ -7,12 +7,12 @@
     "scope": "/app/",
     "icons": [
         {
-            "src": "https://ahamdesigner.github.io/Network/green.png",
+            "src": "https://ahamdesigner.github.io/Network/green.jpg",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
     "background_color": "#FFFFFF",
     "url": "https://ahamdesigner.github.io/Network/yode.html",
-    "lang": "English",
+    "lang": "English"
 }

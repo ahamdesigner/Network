@@ -4,10 +4,10 @@
     "description": "Networking application for departments.",
     "display": "standalone",
     "start_url": "/yode.html",
-    "scope": "/",
+    "scope": "\",
     "background_color": "#FFFFFF",
     "url": "https://ahamdesigner.github.io/Network/yode.html",
-    "lang": "English",
+    "lang": "Malayalam",
     "icons":[{
       "src":"https://ahamdesigner.github.io/Network/green.png",
       "type":"image/png",

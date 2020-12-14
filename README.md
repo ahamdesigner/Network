@@ -7,4 +7,4 @@ Create a visual search engine with communication connectors
 # Who is it for
 Higher officials who need essential connection
 # What does it  do
-Network or interlink people in the front line
+Network or interlink people

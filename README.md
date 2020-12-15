@@ -1,10 +1,10 @@
-# Network
-Networking Application for Dept
-# Purpose
-To connect every depts in one node
-# How its done
-Create a visual search engine with communication connectors
-# Who is it for
-Higher officials who need essential connection
-# What does it  do
-Network or interlink people
+# जालकृतिककारकसंविधा
+सायुज्य
+# चेतति
+श्रथयति सर्वे पात
+# किम् चरित
+प्रत्यक्ष अन्वेषण यन्त्र
+# हि कतर
+देवों
+# प्रथा
+सञ्चित देवों

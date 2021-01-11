@@ -1,13 +1,13 @@
 {
     "name": "Nakshatra Search",
     "short_name": "Search Engine",
-    "description": "Networking application for departments.",
-    "display": "standalone",
+    "description": "Networking application.",
+    "display": "team",
     "start_url": "/yode.html",
-    "scope": "\",
+    "scope": "/",
     "background_color": "#FFFFFF",
     "url": "https://ahamdesigner.github.io/Network/yode.html",
-    "lang": "Malayalam",
+    "lang": "ml",
     "icons":[{
       "src":"https://ahamdesigner.github.io/Network/green.png",
       "type":"image/png",

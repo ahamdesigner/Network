@@ -3,7 +3,7 @@
     "short_name": "Search Engine",
     "description": "Networking application.",
     "display": "team",
-    "start_url": "/yode.html",
+    "start_url": "/network.html",
     "scope": "/",
     "background_color": "#FFFFFF",
     "url": "https://ahamdesigner.github.io/Network/yode.html",
